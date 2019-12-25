@@ -10,7 +10,7 @@ A Team Communication App
 
 WyzePal eases team communication by keeping conversations organized, structured and on-topic. No more messy email threads. No more chaotic real-time chatting. WyzePal keeps all your team communication and collaboration organized and on-topic in asynchronous threads so everyone can work more productively.
 
-<img src="https://github.com/WyzeWare/wyzepal-desktop/blob/master/screenshot/Screenshot%20from%wyzepalOne.png"/>
+<img src="https://github.com/WyzePal/wyzepal-desktop/blob/master/screenshot/wyzepalOne.png"/>
 
 Teamwork doesn’t need to be chaotic and stressful. WyzePal coordinates all your team’s conversations so that they are always structured, contextual, and in one place.
 
